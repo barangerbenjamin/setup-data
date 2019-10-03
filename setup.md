@@ -28,7 +28,7 @@ Run the following commands:
 cd
 touch .bashrc
 ```
-
+You should be prompted telling you that a file bash_profile will be created for you to load your bashrc profile.
 Close Git bash by typing
 
 ```bash
