@@ -79,13 +79,15 @@ python -i
 
 Make is a build automation tool that build executable.
 Go to this [url](https://sourceforge.net/projects/ezwinports/files) and click on "make-4.2.1-without-guile-w32-bin.zip"
+
 The download will start shortly, save the file.
+
 Go to the folder where the file has been saved, probably "Downloads" and right click on it and choose "Extract All..." then click on "Extract"
 
 A new explorer window will open with several directories in it. Select them all and copy them.
 
 In an explorer windows, go to "C:\Program Files\Git\mingw64" and merge the directories with those already there.
-DO not replace existing file/folder.
+Do not replace existing file/folder.
 
 If it is open, restart your Git Bash.
 
@@ -93,7 +95,7 @@ Typing the command:
 ```bash
 make -v
 ```
-should give you an answer like "GNU Make 4.2.1", if not please ask a teacher.
+It should give you an answer like "GNU Make 4.2.1", if not please ask a teacher.
 
 # Check
 
