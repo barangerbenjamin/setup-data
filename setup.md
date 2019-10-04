@@ -13,16 +13,6 @@ Click on next, then accept the License Agreement, then next until you reach "Adv
 
 Click on finish.
 
-Once Anaconda is installed, press Start and look for "Control Panel"
-
-Click on System and Security, click on System, click on Advanced System Settings and finally click on Environment Variables.
-
-Locate "Path" then click on it to select it then click on Edit.
-
-Click on "New" then type "C:\Users\your-windows-username\Anaconda3\Scripts"
-
-Click on OK.
-
 # Git Bash
 
 Git bash will allow you to run some linux command on Windows
