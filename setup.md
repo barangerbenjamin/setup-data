@@ -94,3 +94,12 @@ Typing the command:
 make -v
 ```
 should give you an answer like "GNU Make 4.2.1", if not please ask a teacher.
+
+# Check
+
+To make sure you're setup correctly, please run the following command:
+```bash
+jupyter notebook
+```
+
+It shoul open your default browser to "localhotst:8888/tree". If not please ask a teacher.
