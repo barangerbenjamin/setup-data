@@ -43,7 +43,7 @@ Close Git bash by typing
 exit
 ```
 
-Click start, search for Git Bash, right click, "Run as administrator"
+Click Start, search for "Git Bash", right click, "Run as administrator"
 Run the following command:
 
 ```bash
