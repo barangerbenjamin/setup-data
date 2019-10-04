@@ -9,9 +9,7 @@ Anaconda is the world's most popular data science platform.
 Go to [anaconda's website](https://www.anaconda.com/distribution/) and click on `Download` under "Python 3.7".
 Open the file downloaded.
 
-Click on next, then accept the License Agreement, then next until you reach "Advanced Installation Options". Check "Add Anaconda to my PATH environment variable", click on Install.
-
-Click on finish.
+Click next until the end and click on "Finish"
 
 # Git Bash
 
